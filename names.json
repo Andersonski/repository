@@ -1,0 +1,89 @@
+{
+  "artists": [
+    {
+      "name" : "Baywatch",
+      "surname": "Berlin",
+      "link": "/baywatch-berlin"
+    },
+    {
+      "name" : "Christiane",
+      "surname": "Stenger",
+      "link": "/christiane-stenger"
+    },
+  {
+      "name" : "Claire",
+      "surname": "Oelkers",
+      "link": "/claire-oelkers"
+    },
+ {
+      "name" : "Jan",
+      "surname": "Köppen",
+      "link": "/jan-koeppen"
+    },
+   {
+      "name" : "Klaas",
+      "surname": "Heufer-Umlauf",
+      "link": "/klaas-heufer-umlauf/"
+    },
+  {
+      "name" : "Laura ",
+      "surname": "Wohlers",
+      "link": "/laura-wohlers/"
+    },
+    {
+      "name" : "Nadine",
+      "surname": "Hadad",
+      "link": "/nadine-hadad"
+    },
+    {
+      "name" : "Louis",
+      "surname": "Klamroth",
+      "link": "/louis-klamroth"
+    },
+    {
+      "name" : "Markus",
+      "surname": "Kavka",
+      "link": "/markus-kavka"
+    },
+    {
+      "name" : "Nora",
+      "surname": "Tschirner",
+      "link": "/nora-tschirner/"
+    },   
+    {
+      "name" : "Olli",
+      "surname": "Schulz",
+      "link": "/olli-schulz"
+    },
+    {
+      "name" : "Paulina",
+      "surname": "Krasa",
+      "link": "/paulina-krasa"
+    },
+    {
+      "name" : "Romina",
+      "surname": "Langenhan",
+      "link": "/romina-langenhan"
+    },
+    {
+      "name" : "Salwa",
+      "surname": "Houmsi",
+      "link": "/salwa-houmsi"
+    },
+      {
+      "name" : "Sandra",
+      "surname": "Rieß",
+      "link": "/sandra-riess"
+    },
+    {
+      "name" : "Timon",
+      "surname": "Krause",
+      "link": "/timon-krause"
+    },
+    {
+      "name" : "Tommi",
+      "surname": "Schmitt",
+      "link": "/tommi-schmitt"
+    }
+  ]
+}
