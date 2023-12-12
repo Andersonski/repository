@@ -1,11 +1,6 @@
 {
   "artists": [
     {
-      "name" : "Baywatch",
-      "surname": "Berlin",
-      "link": "/baywatch-berlin"
-    },
-    {
       "name" : "Christiane",
       "surname": "Stenger",
       "link": "/christiane-stenger"
