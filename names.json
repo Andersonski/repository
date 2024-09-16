@@ -1,6 +1,11 @@
 {
   "artists": [
-          {
+               {
+      "name" : "Luisa Charlotte",
+      "surname": "Schulz",
+      "link": "/luisa-charlotte-schulz/"
+    },
+ {
       "name" : "Julia",
       "surname": "Knörnschild",
       "link": "/julia-knornschild/"
